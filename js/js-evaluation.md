@@ -1,4 +1,4 @@
-# 📝 JavaScript Test (MERN Stack)
+# 📝 JavaScript Test
 
 ### General Instructions
 - **Mode:** Online (you may take the test from home).  
@@ -11,14 +11,20 @@
 **Answer *any one* of the following questions:**
 
 1. Write a JavaScript function to calculate the **factorial of a number**.  
-   - Input: A positive integer  
-   - Output: The factorial value  
+   - **Input Example:** `5`  
+   - **Expected Output:** `120`  
 
 **OR**
 
 2. Write a JavaScript function to generate the **multiplication table of a number**.  
-   - Input: A positive integer  
-   - Output: Display the multiplication table up to 10  
+   - **Input Example:** `7`  
+   - **Expected Output:**  
+     ```
+     7 x 1 = 7
+     7 x 2 = 14
+     ...
+     7 x 10 = 70
+     ```
 
 ---
 
@@ -26,14 +32,14 @@
 **Answer *any one* of the following questions:**
 
 1. Using the **`map()` function**, increase the value of each number in an array by **20%**.  
-   - Input: An array of numbers  
-   - Output: A new array with updated values  
+   - **Input Example:** `[100, 200, 300]`  
+   - **Expected Output:** `[120, 240, 360]`  
 
 **OR**
 
 2. Using the **`filter()` function**, create a new array from a given `marks` array containing only the values **greater than or equal to 80**.  
-   - Input: An array of marks  
-   - Output: A filtered array with marks ≥ 80  
+   - **Input Example:** `[45, 67, 89, 92, 76]`  
+   - **Expected Output:** `[89, 92]`  
 
 ---
 
